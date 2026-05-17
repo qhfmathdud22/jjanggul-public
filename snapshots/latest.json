@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-17T15:20:21Z",
+  "timestamp": "2026-05-17T15:50:23Z",
   "summary": {
-    "trend_keywords": 899,
+    "trend_keywords": 995,
     "good_keywords": 83,
     "great_keywords": 2,
     "products_master": 3,
-    "unread_alerts": 430
+    "unread_alerts": 429
   },
   "top_keywords": [{"keyword":"크로스핏갤러리","score_percent":77,"verdict_grade":"bad","market_difficulty":"보통 🆗"},
 {"keyword":"용인캠핑식당","score_percent":77,"verdict_grade":"bad","market_difficulty":"개꿀 🍯"},
