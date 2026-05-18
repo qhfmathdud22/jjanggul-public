@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-05-18T08:21:16Z",
+  "timestamp": "2026-05-18T08:51:18Z",
   "summary": {
     "trend_keywords": 1665,
-    "good_keywords": 36,
-    "great_keywords": 2,
+    "good_keywords": 79,
+    "great_keywords": 6,
     "products_master": 3,
     "unread_alerts": 1907
   },
   "top_keywords": [{"keyword":"배뇽뇽","score_percent":87,"verdict_grade":"bad","market_difficulty":"보통 🆗"},
-{"keyword":"편의점다이어트음식","score_percent":86,"verdict_grade":"bad","market_difficulty":"개꿀 🍯"},
-{"keyword":"용인캠핑식당","score_percent":84,"verdict_grade":"bad","market_difficulty":"개꿀 🍯"}],
+{"keyword":"꼬동드툴레아","score_percent":86,"verdict_grade":"bad","market_difficulty":"보통 🆗"},
+{"keyword":"편의점다이어트음식","score_percent":86,"verdict_grade":"bad","market_difficulty":"개꿀 🍯"}],
   "recent_alerts": [{"title":"✅ \"TV가격\" → 테스트!","message":"✅ 강점: 경쟁 적음 (0개), 리뷰 장벽 낮음 (평균 0개), 연중 판매 가능 (시즌 리스크 없음)\n경쟁 0개 | 평균가 0원 | 월 검색 0회\n점수: 경쟁25/25 리뷰20/20 가격0/15 판매자0/15 진입5/10 키워드0/10 검색량0/10 트렌드2/10 시즌5/5","created_at":"2026-05-18 16:10:29"},
 {"title":"✅ \"43인치티비\" → 테스트!","message":"✅ 강점: 경쟁 적음 (0개), 리뷰 장벽 낮음 (평균 0개), 연중 판매 가능 (시즌 리스크 없음)\n경쟁 0개 | 평균가 0원 | 월 검색 0회\n점수: 경쟁25/25 리뷰20/20 가격0/15 판매자0/15 진입5/10 키워드0/10 검색량0/10 트렌드2/10 시즌5/5","created_at":"2026-05-18 16:10:27"},
 {"title":"✅ \"대형TV\" → 테스트!","message":"✅ 강점: 경쟁 적음 (0개), 리뷰 장벽 낮음 (평균 0개), 연중 판매 가능 (시즌 리스크 없음)\n경쟁 0개 | 평균가 0원 | 월 검색 0회\n점수: 경쟁25/25 리뷰20/20 가격0/15 판매자0/15 진입5/10 키워드0/10 검색량0/10 트렌드2/10 시즌5/5","created_at":"2026-05-18 16:10:26"},
