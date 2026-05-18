@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-05-18T05:51:08Z",
+  "timestamp": "2026-05-18T06:21:09Z",
   "summary": {
-    "trend_keywords": 1132,
-    "good_keywords": 83,
-    "great_keywords": 2,
+    "trend_keywords": 1107,
+    "good_keywords": 0,
+    "great_keywords": 0,
     "products_master": 3,
     "unread_alerts": 429
   },
-  "top_keywords": [{"keyword":"크로스핏갤러리","score_percent":77,"verdict_grade":"bad","market_difficulty":"보통 🆗"},
-{"keyword":"용인캠핑식당","score_percent":77,"verdict_grade":"bad","market_difficulty":"개꿀 🍯"},
-{"keyword":"셀프케어코리아","score_percent":76,"verdict_grade":"bad","market_difficulty":"개꿀 🍯"}],
+  "top_keywords": [{"keyword":"40평아파트인테리어","score_percent":0,"verdict_grade":null,"market_difficulty":null},
+{"keyword":"강아지가핥는이유","score_percent":0,"verdict_grade":null,"market_difficulty":null},
+{"keyword":"애견훈련소","score_percent":0,"verdict_grade":null,"market_difficulty":null}],
   "recent_alerts": [{"title":"🆕 신규 연관 1415개 발견","message":"· 강아지 간식 ↔ 강아지 생일케이크 믹스\n· 강아지 생일케이크 믹스 ↔ 빵/케이크\n· 강아지 생일케이크 믹스 ↔ 동결건조 간식\n· 고양이 장난감 ↔ 고양이 터널 장난감\n· 고양이 터널 장난감 ↔ 터널/주머니","created_at":"2026-05-17 00:09:13"},
 {"title":"✅ \"진공음식물쓰레기통\" → 테스트!","message":"✅ 강점: 가격대 적정 (24,118원), 소규모 판매자 多 (진입 쉬움), 연중 판매 가능 (시즌 리스크 없음)\n경쟁 5,962개 | 평균가 24,118원 | 월 검색 500회\n점수: 경쟁16/25 리뷰3/20 가격11/15 판매자15/15 진입5/10 키워드1/10 검색량2/10 시즌5/5","created_at":"2026-05-15 21:01:39"},
 {"title":"✅ \"웨스트화이트테리어\" → 테스트!","message":"✅ 강점: 경쟁 적음 (647개), 연중 판매 가능 (시즌 리스크 없음)\n경쟁 647개 | 평균가 43,007원 | 월 검색 500회\n점수: 경쟁25/25 리뷰8/20 가격6/15 판매자7/15 진입5/10 키워드1/10 검색량2/10 시즌5/5","created_at":"2026-05-15 21:01:29"},
